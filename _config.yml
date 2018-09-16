@@ -25,10 +25,13 @@ sass:
 
 # Build settings
 exclude:
-  - package.json
-  - README.md
   - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
   - assets/sass
+  - package.json
 
 # Plugin settings
 plugins:
