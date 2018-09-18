@@ -4,6 +4,8 @@
 
 This project is an attempt to replace the current Drupal-based website at [http://jcbutcher.com](http://jcbutcher.com) with a static website hosted on Netlify.com. It is not finished yet, but the the changes are coming soon, and the website will be redirected to Netlify in the nearest future.
 
+In the meantime, this website is avaliable at https://jcbutcher.netlify.com/.
+
 ## Project management
 
 The project is managed in this [Trello board](https://trello.com/b/hs9JZPJ1/website).
