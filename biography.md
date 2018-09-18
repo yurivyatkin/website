@@ -47,97 +47,76 @@ Australia and New Zealand Industrial and Applied Mathematics
 
 ## Awards
 
-<dl>
+Award for Mathematical Research, NZ Mathematical Society, 1991
+: For establishing new fundamental connections between analytic stability properties and algebraic properties of numerical methods for non-linear differential equations; for implementing new methods; and for an outstanding monograph on Runge-Kutta and general linear methods.
 
-<dt>Award for Mathematical Research, NZ Mathematical Society, 1991</dt>
+Hector Memorial Medal, Royal Society Of NZ, 1996
+: For research in the Numerical Analysis of Differential Equations
 
-<dd>For establishing new fundamental connections between analytic stability properties and algebraic properties of numerical methods for non-linear differential equations; for implementing new methods; and for an outstanding monograph on Runge-Kutta and general linear methods.</dd>
+Jones Medal, Royal Society of New Zealand, 2010
+: For lifetime achievement in the Mathematical Sciences
 
-<dt>Hector Memorial Medal, Royal Society Of NZ, 1996</dt>
+Van Wijngaarden Award, 2011
+: 
 
-<dd>For research in the Numerical Analysis of Differential Equations</dd>
-
-<dt>Jones Medal, Royal Society of New Zealand, 2010</dt>
-
-<dd>For lifetime achievement in the Mathematical Sciences</dd>
-
-<dt>Van Wijngaarden Award, 2011</dt>
-
-<dt style="margin-bottom: 0.5cm">ONZM, 2013</dt>
-
-</dl>
+ONZM, 2013
+: 
 
 ## Visiting Positions and Conferences
 
-<dl>
+1997
+: August, September - Berlin, Germany; Alexisbad, Germany; Grado, Italy
 
-<dt>1997</dt>
+1996
+: January, February, March - Troy, New York  
+  April, May - Brisbane, Australia  
+  May, June - Phoenix, Arizona; Toronto, Canada
 
-<dd>August, September - Berlin, Germany; Alexisbad, Germany; Grado, Italy</dd>
+1995
+: January - Phoenix, Arizona; Stockholm, Sweden; London, England  
+  March - Stanford, California (Gear conference)  
+  June - Geiranger, Norway; Dundee, Scotland  
+  August, September - São Jose do Rio Preto and Curitiba, Brazil  
+  Porto and Coimbra, Portugal; Valladolid and Zaragoza, Spain  
+  September to December - Rennes, France; Amsterdam, Netherlands; Cambridge, England
 
-<dt>1996</dt>
+1994
+: July - New Orleans; Atlanta, Georgia  
+  August, September - Phoenix, Arizona; Miskolc, Hungary; Rennes, Marseilles, France
 
-<dd>January, February, March - Troy, New York  
-April, May - Brisbane, Australia  
-May, June - Phoenix, Arizona; Toronto, Canada</dd>
+1993
+: August, September - Brazil (Rio de Janeiro; Uberlandia)  
+  November, December - USA (Lafayette; Phoenix, Arizona; Raleigh, Nth Carolina)
 
-<dt>1995</dt>
+1992
+: Co-organiser of: "International Conference on Scientific Computation and Differential Equations", Auckland 4-8 January 1993 (in honour of J. C. Butcher's 60th birthday)  
+  University Of Durham - Workshop on numerical methods for evolutionary problems
 
-<dd>January - Phoenix, Arizona; Stockholm, Sweden; London, England  
-March - Stanford, California (Gear conference)  
-June - Geiranger, Norway; Dundee, Scotland  
-August, September - São Jose do Rio Preto and Curitiba, Brazil  
-Porto and Coimbra, Portugal; Valladolid and Zaragoza, Spain  
-September to December - Rennes, France; Amsterdam, Netherlands; Cambridge, England</dd>
+1991
+: University of Manchester, England (3 months)  
+  Universiteit te Leiden, Holland. Kloostermann Professor (2 months)  
+  Arizona State University, Phoenix, Arizona (3 months)
 
-<dt>1994</dt>
+1990
+: Novosibirsk, USSR (by invitation) (2 weeks)  
+  Vienna, Scientific Computation Conference (in honour of H. J. Stetter)  
+  Helsinki conference on Numerical Methods for Ordinary Differential Equations
 
-<dd>July - New Orleans; Atlanta, Georgia  
-August, September - Phoenix, Arizona; Miskolc, Hungary; Rennes, Marseilles, France</dd>
+1986
+: AT&T Bell Labs, New Jersey (2 months)  
+  Imperial College, London (3 months)  
+  Dortmund, Germany
 
-<dt>1993</dt>
+1979
+: Linköping, Sweden, visiting Professor (several months)  
+  Bonn, Germany (for a few months)
 
-<dd>August, September - Brazil (Rio de Janeiro; Uberlandia)  
-November, December - USA (Lafayette; Phoenix, Arizona; Raleigh, Nth Carolina)</dd>
+1972
+: Dundee, Scotland (8 months)  
+  Vienna, Austria (4 months)
 
-<dt>1992</dt>
-
-<dd>Co-organiser of: "International Conference on Scientific Computation and Differential Equations", Auckland 4-8 January 1993 (in honour of J. C. Butcher's 60th birthday)  
-University Of Durham - Workshop on numerical methods for evolutionary problems</dd>
-
-<dt>1991</dt>
-
-<dd>University of Manchester, England (3 months)  
-Universiteit te Leiden, Holland. Kloostermann Professor (2 months)  
-Arizona State University, Phoenix, Arizona (3 months)</dd>
-
-<dt>1990</dt>
-
-<dd>Novosibirsk, USSR (by invitation) (2 weeks)  
-Vienna, Scientific Computation Conference (in honour of H. J. Stetter)  
-Helsinki conference on Numerical Methods for Ordinary Differential Equations</dd>
-
-<dt>1986</dt>
-
-<dd>AT&T Bell Labs, New Jersey (2 months)  
-Imperial College, London (3 months)  
-Dortmund, Germany</dd>
-
-<dt>1979</dt>
-
-<dd>Linköping, Sweden, visiting Professor (several months)  
-Bonn, Germany (for a few months)</dd>
-
-<dt>1972</dt>
-
-<dd>Dundee, Scotland (8 months)  
-Vienna, Austria (4 months)</dd>
-
-<dt>1970</dt>
-
-<dd style="margin-bottom: 0.5cm">Various British Universities (few days each)  
-Royal Institute of Technology, Stockholm,Sweden (one week)  
-Innsbruck, Austria Invited Speaker, 400th anniversary, Universität Innsbruck (one week)  
-Prof à l'école d'été, Bréau-sans-Nappe, France (3 weeks)</dd>
-
-</dl>
+1970
+: Various British Universities (few days each)  
+  Royal Institute of Technology, Stockholm,Sweden (one week)  
+  Innsbruck, Austria Invited Speaker, 400th anniversary, Universität Innsbruck (one week)  
+  Prof à l'école d'été, Bréau-sans-Nappe, France (3 weeks)
