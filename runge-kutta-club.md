@@ -103,7 +103,5 @@ Chengjian Zhang | Mathematics, Huazhong University of Science and Technology, Wu
 ## Useful Links
 
 *   [Bari Test set for IVP solvers](http://pitagora.dm.uniba.it/~testset)
-
 *   [Ernst Hairer's software page](http://www.unige.ch/~hairer/software.html)
-
 *   [Helmut Podhaisky's glm resource page](http://www.math.auckland.ac.nz/~hpod/atlas/)
