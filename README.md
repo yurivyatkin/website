@@ -67,7 +67,7 @@ $ bundle exec jekyll serve
 
 The `bundle exec` part ensures that the dependencies are taken from the project's 'Gemfile.lock'. In may cases this prefix may be safely omitted, and just `jekyll serve` will do. There is even shorter version of this command: `jekyll s`.
 
-If this command runs successfully, it will show the link at which the local copy of the website can be opened in the browser. Usually, this is `http://localhost:4000`.
+If this command runs successfully, it will show the link at which the local copy of the website can be opened in the browser. Usually, this is [http://localhost:4000](http://localhost:4000).
 
 ## How to make changes.
 
