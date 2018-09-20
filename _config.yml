@@ -34,4 +34,5 @@ exclude:
 # Plugin settings
 plugins:
   - jekyll-feed
+  - jekyll-scholar
   - jekyll-sitemap
