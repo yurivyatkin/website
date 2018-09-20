@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bibliography
+title: Publications
 ---
 
 {% bibliography %}
