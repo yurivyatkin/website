@@ -36,3 +36,9 @@ plugins:
   - jekyll-feed
   - jekyll-scholar
   - jekyll-sitemap
+
+# Collections
+collections:
+  talks:
+    output: true
+    permalinks: /talks/:path/

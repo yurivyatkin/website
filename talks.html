@@ -1,0 +1,14 @@
+---
+layout: page
+title: Conference Talks
+---
+
+<nav>
+    <ul>
+        {% for talk in site.talks %}
+            <li>
+                <a href="{{site.url}}/talks/{{talk.slug}}">{{talk.title}}</a>
+            </li>
+        {% endfor %}
+    </ul>
+</nav>
