@@ -43,3 +43,6 @@ collections:
   talks:
     output: true
     permalinks: /talks/:path/
+  apologies:
+    output: true
+    permalinks: /apologies/:path
