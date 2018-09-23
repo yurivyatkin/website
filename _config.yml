@@ -46,3 +46,7 @@ collections:
   apologies:
     output: true
     permalinks: /apologies/:path
+  miniatures:
+    output: true
+    permalinks: /miniatures/:path
+
