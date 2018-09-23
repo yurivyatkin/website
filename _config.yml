@@ -32,6 +32,8 @@ exclude:
   - assets/sass
   - package.json
 
+include: ['_pages']
+
 # Plugin settings
 plugins:
   - jekyll-feed
@@ -49,4 +51,7 @@ collections:
   miniatures:
     output: true
     permalinks: /miniatures/:path
+  # pages:
+  #   output: true
+  #   permalinks: /:path
 

@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Numerical Analyis Workshops
+title: Numerical Analysis Workshops
+permalink: /workshops/
 ---
 
 These workshops have been running for many years and afford an opportunity for academic staff and students, working in numerical analysis, to exchange ideas, practice conference or other presentations and to study publications by other people.

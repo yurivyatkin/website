@@ -1,6 +1,7 @@
 ---
 layout: page
 title: The Runge-Kutta Club
+permalink: /runge-kutta-club/
 ---
 
 Runge-Kutta methods and other multistage numerical methods are used  

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Seminars and Lectures
+permalink: /seminars/
 ---
 
 ## Introduction
