@@ -26,6 +26,7 @@
         {% endif %}
       {% endfor %}
 
+      <a class="sidebar-nav-item{% if page.url contains '/journal' %} active{% endif %}" href="{{ site.url }}/journal">Journal</a>
     </nav>
 
     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>

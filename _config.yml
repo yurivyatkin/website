@@ -39,6 +39,7 @@ plugins:
   - jekyll-feed
   - jekyll-scholar
   - jekyll-sitemap
+  - jekyll-paginate
 
 # Collections
 collections:
@@ -51,7 +52,7 @@ collections:
   miniatures:
     output: true
     permalinks: /miniatures/:path
-  # pages:
-  #   output: true
-  #   permalinks: /:path
 
+paginate: 5
+paginate_path: '/journal/page:num/'
+destnation: _site/journal
