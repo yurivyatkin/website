@@ -1,0 +1,28 @@
+---
+layout: page
+title: Contact Me
+permalink: /contact/
+form_url: https://getsimpleform.com/messages?form_api_token=5a2869ddbbb0415b0c7398ce367c5028
+---
+
+<form id="contact-form" role="form" action="{{ page.form_url }}" method="post">
+
+    <input name="redirect_to" value="{{ site.url }}/thankyou/" type="hidden">
+  
+    <div class="form-group">
+      <label>Name</label>
+      <input name="name" class="form-control" type="text">
+    </div>
+  
+    <div class="form-group">
+      <label>Email</label>
+      <input name="email" class="form-control" type="text">
+    </div>
+  
+    <div class="form-group">
+      <label>Message</label>
+      <textarea type="text" name="message" rows="8" class="form-control"></textarea>
+    </div>
+  
+    <button type="submit" class="btn btn-primary">Submit</button>
+  </form>
