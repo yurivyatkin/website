@@ -10,7 +10,7 @@ title: John Butcher
 description: > # this means to ignore newlines until "baseurl:"
   Auckland, New Zealand
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://primo-dahlia.cloudvent.net/" # the base hostname & protocol for your site
+url: "https://primo-dahlia.cloudvent.net" # the base hostname & protocol for your site
 permalink: pretty
 
 # Markdown settings
